@@ -1,2 +1,2 @@
-# Exercicio_SOFTEX_CALCULO_DA_IDADE_
+# Exercício SOFTEX
  Calculo da idade com laço de repetição
